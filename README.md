@@ -6,4 +6,4 @@
 
 ## Project Presentation
 
-You can watch the project demonstration [here]([https://youtu.be/your-video-link](https://youtu.be/vorA3yjIAS8)).
+You can watch the project demonstration [here](https://youtu.be/your-video-link](https://youtu.be/vorA3yjIAS8)).
